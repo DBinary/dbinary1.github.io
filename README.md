@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
-<div> 
-**I'm DBinary，a Ph.D student at School of Life Science of Westlake University.** 👋🏻
 
+**I'm DBinary，a Ph.D student at School of Life Science of Westlake University.** 👋🏻
+	
+<div> 
 
 ## Github Status 🥰
 
