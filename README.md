@@ -1,6 +1,6 @@
 # Click: [dbinary.github.io](https://dbinary.github.io/)
 <div align="center">
-<img src="images/about.jpg"/>
+<img src="images/innovation.jpg"/>
 </div>
 
 <div align="center">
