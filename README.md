@@ -1,4 +1,3 @@
-# Click: [dbinary.github.io](https://dbinary.github.io/)
 <div align="center">
 <img src="images/innovation.jpg"/>
 </div>
@@ -6,6 +5,7 @@
 <div align="center">
 
 **I'm DBinary，a Ph.D student at School of Life Science of Westlake University.** 👋🏻
+	Click: [dbinary.github.io](https://dbinary.github.io/)
 	
 <div> 
 
