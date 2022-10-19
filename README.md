@@ -1,6 +1,6 @@
 # Click: [dbinary.github.io](https://dbinary.github.io/)
 <div align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/10475770?v=4&h=360&w=360&fit=cover&mask=circle&maxage=7d"/>
+<img src="images/about.jpg"/>
 </div>
 
 <div align="center">
