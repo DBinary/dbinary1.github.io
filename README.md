@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/innovation.jpg"/>
+<img src="images/innovation.jpg" width="60%“/>
 </div>
 
 <div align="center">
