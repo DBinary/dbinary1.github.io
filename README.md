@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/innovation.jpg"/ =400x300>
+<img src="images/innovation.jpg" width = "400" height = "260">
 </div>
 
 <div align="center">
