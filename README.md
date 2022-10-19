@@ -5,19 +5,8 @@
 
 <div align="center">
 
-**I'm Twiliness.** 👋🏻
+**I'm DBinary，a Ph.D student at School of Life Science of Westlake University.** 👋🏻
 
-</div>
-
-## WakaTime 🧐
-
-<!--START_SECTION:waka-->
-
-```text
-Temporarily Offline
-```
-
-<!--END_SECTION:waka-->
 
 ## Github Status 🥰
 
